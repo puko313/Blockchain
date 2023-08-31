@@ -1,0 +1,10 @@
+
+TODO:
+    Make ^C global, not per callback
+    Separate tx hash computation and need for upstream
+
+DONE:
+    Better progress in full parse (w/ ETA)
+    Fix completion estimates in allBalances
+    Add a way for callbacks to signal they're done
+
